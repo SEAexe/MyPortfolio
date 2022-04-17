@@ -8,4 +8,4 @@ Application appearance (.assets/imgs/#####)
 
 ## URL to live site
 
-Live site : (####)
+Live site : (https://seaexe.github.io/MyPortfolio/)
